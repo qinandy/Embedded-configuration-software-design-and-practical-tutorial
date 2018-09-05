@@ -1,0 +1,5 @@
+D:\写书\ConfigEdit\Basic\obj\Debug\ResolveAssemblyReference.cache
+D:\写书\ConfigEdit\Basic\bin\Debug\Basic.dll
+D:\写书\ConfigEdit\Basic\bin\Debug\Basic.pdb
+D:\写书\ConfigEdit\Basic\obj\Debug\Basic.dll
+D:\写书\ConfigEdit\Basic\obj\Debug\Basic.pdb

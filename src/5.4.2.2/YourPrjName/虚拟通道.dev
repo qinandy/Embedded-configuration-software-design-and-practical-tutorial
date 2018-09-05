@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfChannelManage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ChannelManage>
+    <nChannelType>0</nChannelType>
+    <bConnected>false</bConnected>
+    <AllDevList>
+      <DeviceManage>
+        <RtuAddr>1</RtuAddr>
+        <AllVarList>
+          <Variable>
+            <mValuetype>bit</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>false</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>0</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>a</Name>
+            <Addr>1</Addr>
+            <Description>a</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>虚拟设备1</Device>
+          </Variable>
+          <Variable>
+            <mValuetype>bit</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>false</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>b</Name>
+            <Addr>1</Addr>
+            <Description>b</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>虚拟设备1</Device>
+          </Variable>
+        </AllVarList>
+        <DeviceName>虚拟设备1</DeviceName>
+      </DeviceManage>
+    </AllDevList>
+    <ComPort>COM1</ComPort>
+    <BaudRate>9600</BaudRate>
+    <Databits>8</Databits>
+    <Stopbit>1</Stopbit>
+    <Parity>0</Parity>
+    <RefreshTime>300</RefreshTime>
+    <ChannelName>虚拟通道</ChannelName>
+  </ChannelManage>
+</ArrayOfChannelManage>

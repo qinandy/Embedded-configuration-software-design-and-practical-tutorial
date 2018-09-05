@@ -1,0 +1,12 @@
+D:\写书\ConfigEdit\ConfigRun\bin\Debug\ConfigRun.exe
+D:\写书\ConfigEdit\ConfigRun\bin\Debug\ConfigRun.pdb
+D:\写书\ConfigEdit\ConfigRun\obj\Debug\ResolveAssemblyReference.cache
+D:\写书\ConfigEdit\ConfigRun\obj\Debug\ConfigRun.Form1.resources
+D:\写书\ConfigEdit\ConfigRun\obj\Debug\ConfigRun.Properties.Resources.resources
+D:\写书\ConfigEdit\ConfigRun\obj\Debug\ConfigRun.csproj.GenerateResource.Cache
+D:\写书\ConfigEdit\ConfigRun\obj\Debug\ConfigRun.exe
+D:\写书\ConfigEdit\ConfigRun\obj\Debug\ConfigRun.pdb
+D:\写书\ConfigEdit\ConfigRun\bin\Debug\Basic.dll
+D:\写书\ConfigEdit\ConfigRun\bin\Debug\VisualGraph.dll
+D:\写书\ConfigEdit\ConfigRun\bin\Debug\VisualGraph.pdb
+D:\写书\ConfigEdit\ConfigRun\bin\Debug\Basic.pdb

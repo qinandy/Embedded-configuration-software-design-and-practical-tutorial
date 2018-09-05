@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfChannelManage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ChannelManage>
+    <nChannelType>0</nChannelType>
+    <bConnected>false</bConnected>
+    <AllDevList>
+      <DeviceManage>
+        <RtuAddr>1</RtuAddr>
+        <AllVarList>
+          <Variable>
+            <mValuetype>bit</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>false</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>-1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>coil1</Name>
+            <Addr>1</Addr>
+            <Description>coil1</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>ModbusRTU设备1</Device>
+          </Variable>
+          <Variable>
+            <mValuetype>bit</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>false</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>-1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>coil2</Name>
+            <Addr>2</Addr>
+            <Description>coil2</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>ModbusRTU设备1</Device>
+          </Variable>
+          <Variable>
+            <mValuetype>bit</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>false</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>-1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>input1</Name>
+            <Addr>10001</Addr>
+            <Description>input1</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>ModbusRTU设备1</Device>
+          </Variable>
+          <Variable>
+            <mValuetype>bit</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>false</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>-1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>input2</Name>
+            <Addr>10002</Addr>
+            <Description>input2</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>ModbusRTU设备1</Device>
+          </Variable>
+          <Variable>
+            <mValuetype>int16</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>true</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>-1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>holding1</Name>
+            <Addr>40001</Addr>
+            <Description>holding1</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>ModbusRTU设备1</Device>
+          </Variable>
+          <Variable>
+            <mValuetype>int16</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>true</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>-1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>holding2</Name>
+            <Addr>40002</Addr>
+            <Description>holding2</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>ModbusRTU设备1</Device>
+          </Variable>
+          <Variable>
+            <mValuetype>int16</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>true</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>-1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>inputrsg1</Name>
+            <Addr>30001</Addr>
+            <Description>inputrsg1</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>ModbusRTU设备1</Device>
+          </Variable>
+          <Variable>
+            <mValuetype>int16</mValuetype>
+            <offset>0</offset>
+            <factor>1</factor>
+            <Counter>0</Counter>
+            <bWrite>true</bWrite>
+            <Datatime>0001-01-01T00:00:00</Datatime>
+            <VirtualVarType>-1</VirtualVarType>
+            <readNum>1</readNum>
+            <Name>inputrsg2</Name>
+            <Addr>30002</Addr>
+            <Description>inputrsg2</Description>
+            <Value xsi:type="xsd:int">0</Value>
+            <OldValue xsi:type="xsd:string" />
+            <Device>ModbusRTU设备1</Device>
+          </Variable>
+        </AllVarList>
+        <DeviceName>ModbusRTU设备1</DeviceName>
+      </DeviceManage>
+    </AllDevList>
+    <ComPort>COM1</ComPort>
+    <BaudRate>9600</BaudRate>
+    <Databits>8</Databits>
+    <Stopbit>1</Stopbit>
+    <Parity>0</Parity>
+    <RefreshTime>300</RefreshTime>
+    <ChannelName>串口通道</ChannelName>
+  </ChannelManage>
+</ArrayOfChannelManage>

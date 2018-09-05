@@ -1,0 +1,10 @@
+F:\书\ceConfigRun\Basic\bin\Debug\Basic.dll
+F:\书\ceConfigRun\Basic\bin\Debug\Basic.pdb
+F:\书\ceConfigRun\Basic\obj\Debug\ResolveAssemblyReference.cache
+F:\书\ceConfigRun\Basic\obj\Debug\Basic.dll
+F:\书\ceConfigRun\Basic\obj\Debug\Basic.pdb
+D:\写书\ceConfigRun\Basic\bin\Debug\Basic.dll
+D:\写书\ceConfigRun\Basic\bin\Debug\Basic.pdb
+D:\写书\ceConfigRun\Basic\obj\Debug\ResolveAssemblyReference.cache
+D:\写书\ceConfigRun\Basic\obj\Debug\Basic.dll
+D:\写书\ceConfigRun\Basic\obj\Debug\Basic.pdb

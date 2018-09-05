@@ -1,0 +1,14 @@
+D:\写书\ConfigEdit\ConfigEdit\bin\Debug\ConfigEdit.exe
+D:\写书\ConfigEdit\ConfigEdit\bin\Debug\ConfigEdit.pdb
+D:\写书\ConfigEdit\ConfigEdit\obj\Debug\ResolveAssemblyReference.cache
+D:\写书\ConfigEdit\ConfigEdit\obj\Debug\ConfigEdit.Form1.resources
+D:\写书\ConfigEdit\ConfigEdit\obj\Debug\ConfigEdit.Properties.Resources.resources
+D:\写书\ConfigEdit\ConfigEdit\obj\Debug\ConfigEdit.csproj.GenerateResource.Cache
+D:\写书\ConfigEdit\ConfigEdit\obj\Debug\ConfigEdit.exe
+D:\写书\ConfigEdit\ConfigEdit\obj\Debug\ConfigEdit.pdb
+D:\写书\ConfigEdit\ConfigEdit\bin\Debug\VisualGraph.dll
+D:\写书\ConfigEdit\ConfigEdit\bin\Debug\VisualGraph.pdb
+D:\写书\ConfigEdit\ConfigEdit\bin\Debug\PropertyGridEx.dll
+D:\写书\ConfigEdit\ConfigEdit\bin\Debug\PropertyGridEx.pdb
+D:\写书\ConfigEdit\ConfigEdit\obj\Debug\ConfigEdit.VarForm.resources
+D:\写书\ConfigEdit\ConfigEdit\obj\Debug\ConfigEdit.EventSet.resources

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigEdit", "ConfigEdit\ConfigEdit.csproj", "{3D54E541-C677-45F9-A6BF-35724F0EE5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualGraph", "VisualGraph\VisualGraph.csproj", "{F14B6BE9-6F63-4715-AFE4-1800578D1FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D54E541-C677-45F9-A6BF-35724F0EE5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D54E541-C677-45F9-A6BF-35724F0EE5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D54E541-C677-45F9-A6BF-35724F0EE5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D54E541-C677-45F9-A6BF-35724F0EE5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14B6BE9-6F63-4715-AFE4-1800578D1FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14B6BE9-6F63-4715-AFE4-1800578D1FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14B6BE9-6F63-4715-AFE4-1800578D1FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14B6BE9-6F63-4715-AFE4-1800578D1FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

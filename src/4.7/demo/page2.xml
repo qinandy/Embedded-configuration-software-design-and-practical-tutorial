@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!--Form objects xml,Windows CE make for 1.0 version!-->
+<objectlist>
+  <object id="66935" type="text" x="78" y="78" />
+  <object id="6895" type="text" x="77" y="163" />
+  <object id="49265" type="text" x="166" y="77" />
+  <object id="90597" type="text" x="166" y="161" />
+  <object id="73051" type="picture" x="466" y="165" />
+  <object id="46231" type="text" x="75" y="18" />
+</objectlist>
